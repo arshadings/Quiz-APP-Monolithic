@@ -1,12 +1,13 @@
-# This is a Spring Boot-based quiz application.
+# This is a Spring Boot based quiz application.
+This quiz applicaiton is built using the monolithic architecture.  
 
 ## Functionality
 ### 1. Admin:
-Create questions, options, difficulty level, category (Java, Python, etc.), and correct answers.
+* Create questions, options, difficulty level, category (Java, Python, etc.), and correct answers.
 ### 2. User:
-View question ID, question title, and options.  
-Submit responses.  
-View score based on responses.  
+* View question ID, question title, and options.  
+* Submit responses.  
+* View score based on responses.  
 
 ## Technical Overview  
 ### 1. Services:  
